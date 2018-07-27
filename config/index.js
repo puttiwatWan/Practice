@@ -1,0 +1,3 @@
+export const JUMBOTRON_IMG_BG_BORDER_PADDING = 12
+export const JUMBOTRON_IMG_BG_COLOR_CODE = 'rgb(255, 255, 255, 0.3)'
+export const JUMBOTRON_HEIGHT = 400
