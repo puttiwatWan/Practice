@@ -38,7 +38,6 @@ const Jumbotron = compose(
                   <img className="logo" src={ logoSrc } />
                 </div>
               )
-              
             }
           </div>
         </BulmaColumn>
